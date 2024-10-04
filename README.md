@@ -1,4 +1,4 @@
-#Análise de Queimadas no Brasil
+Análise de Queimadas no Brasil
 
 Este projeto realiza uma análise das queimadas no Brasil utilizando dados do Instituto Nacional de Pesquisas Espaciais (INPE). Os dados foram obtidos através do TerraBrasilis, uma plataforma que fornece informações sobre focos de queimadas em território nacional.
 
